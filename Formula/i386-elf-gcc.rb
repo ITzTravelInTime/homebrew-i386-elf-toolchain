@@ -1,8 +1,8 @@
 class I386ElfGcc < Formula
   desc "GNU Compiler Collection targetting i386-elf"
   homepage "https://gcc.gnu.org"
-  url "http://ftpmirror.gnu.org/gcc/gcc-9.2.0/gcc-9.2.0.tar.xz"
-  version "9.2.0"
+  url "http://ftpmirror.gnu.org/gcc/gcc-9.3.0/gcc-9.3.0.tar.xz"
+  version "9.3.0"
   sha256 "ea6ef08f121239da5695f76c9b33637a118dcf63e24164422231917fa61fb206"
 
 
