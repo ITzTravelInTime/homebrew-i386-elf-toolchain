@@ -8,6 +8,7 @@ class I386ElfGcc < Formula
   
   url "http://ftpmirror.gnu.org/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz"
   version "10.2.0"
+  sha256 "b8dd4368bb9c7f0b98188317ee0254dd8cc99d1e3a18d0ff146c855fe16c1d8c"
   
   
 
