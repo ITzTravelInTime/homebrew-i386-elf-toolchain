@@ -16,8 +16,8 @@ matrix:
 before_install: brew update
 
 install:
-  - mkdir -p $(brew --repo)/Library/Taps/nativeos
-  - ln -s $PWD $(brew --repo)/Library/Taps/nativeos/homebrew-i386-elf-toolchain
+  - mkdir -p $(brew --repo)/Library/Taps/ITzTravelInTime
+  - ln -s $PWD $(brew --repo)/Library/Taps/ITzTravelInTime/homebrew-i386-elf-toolchain
   - brew tap --repair
 
 script:
