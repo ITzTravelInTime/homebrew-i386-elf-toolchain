@@ -9,7 +9,7 @@ test other kernels.
 
 Tap the repository and install the packages.
 
-    brew tap nativeos/i386-elf-toolchain
+    brew tap ITzTravelInTime/i386-elf-toolchain
     brew install i386-elf-binutils i386-elf-gcc
 
 ## Disclaimer
